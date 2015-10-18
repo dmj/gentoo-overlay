@@ -14,7 +14,7 @@ else
 	KEYWORDS="amd64 x86"
 fi
 
-inherit ${_GIT} toolchain-funcs user
+inherit ${_GIT} toolchain-funcs user eutils
 
 DESCRIPTION="A caching web proxy"
 HOMEPAGE="http://www.pps.jussieu.fr/~jch/software/polipo/"
@@ -27,6 +27,10 @@ RDEPEND=""
 pkg_setup() {
 	enewgroup ${PN}
 	enewuser ${PN} -1 -1 /var/cache/${PN} ${PN}
+}
+
+src_prepare() {
+	epatch "${FILESDIR}/${P}-forbidden-tunnel-403.patch"
 }
 
 src_compile() {
