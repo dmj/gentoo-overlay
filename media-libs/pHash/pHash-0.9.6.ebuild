@@ -14,7 +14,7 @@ IUSE="audio-hash +image-hash video-hash"
 
 DEPEND="image-hash? ( media-libs/cimg )
 		audio-hash? ( media-libs/libsndfile media-sound/mpg123 )
-		video-hash? ( media-libs/ffmpeg )"
+		video-hash? ( media-video/ffmpeg )"
 RDEPEND=""
 
 src_configure() {
