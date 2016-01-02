@@ -1,5 +1,5 @@
 
-EAPI="3"
+EAPI="4"
 
 inherit flag-o-matic
 
