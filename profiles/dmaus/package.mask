@@ -1,0 +1,8 @@
+>=www-client/firefox-39
+media-sound/pulseaudio
+sys-apps/dbus
+sys-apps/systemd
+sys-auth/consolekit
+sys-auth/polkit
+sys-fs/eudev
+sys-fs/udev

@@ -1,0 +1,3 @@
+app-editors/emacs	~amd64
+dev-scheme/guile	~amd64
+virtual/emacs		~amd64
