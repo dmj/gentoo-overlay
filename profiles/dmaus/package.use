@@ -1,0 +1,40 @@
+app-admin/pass                  X dmenu emacs zsh-completion
+app-admin/sudo			-sendmail offensive
+app-crypt/pinentry		gtk emacs
+app-editors/emacs		X gzip-el imagemagick jpeg libxml2 png svg tiff xft
+app-emacs/emacs-common-gentoo	X
+app-office/ledger		emacs
+app-office/libreoffice          pdfimport -cups
+app-shells/zsh			-gdbm
+app-text/hunspell		l10n_de l10n_en
+app-text/mupdf                  X
+dev-db/sqlite			secure-delete
+dev-java/icedtea-bin            -alsa -cups -gtk -sunec -webstart
+dev-lang/php                    -berkdb -gdbm curl intl pdo sqlite xmlreader xmlwriter xslt
+dev-lang/python			sqlite
+dev-libs/boehm-gc		threads
+games-engines/scummvm           alsa jpeg png
+media-fonts/inconsolata		X
+media-fonts/open-sans           X
+media-fonts/source-pro          X
+media-gfx/geeqie                exif jpeg tiff
+media-gfx/graphviz              X svg
+media-gfx/imagemagick		X jpeg lcms png svg tiff
+media-libs/freetype		X
+media-libs/gd                   truetype fontconfig jpeg png
+media-libs/harfbuzz             icu
+media-libs/imlib2               X jpeg png tiff
+media-libs/libpng		apng
+media-libs/libsdl               alsa X
+media-video/mplayer		-cdio -libass -xscreensaver
+net-wireless/kismet             -plugin-btscan -ruby
+net-wireless/wpa_supplicant	-hs2-0 -readline
+sys-boot/grub			-fonts -themes
+sys-fs/lvm2			-readline -thin
+www-client/firefox		custom-cflags custom-optimization system-icu system-jpeg system-sqlite
+www-client/lynx                 gnutls idn
+x11-libs/cairo			X
+x11-libs/gdk-pixbuf		X
+x11-libs/gdk-pixbuf             jpeg tiff
+x11-terms/rxvt-unicode		256-color xft
+x11-wm/dwm			savedconfig
