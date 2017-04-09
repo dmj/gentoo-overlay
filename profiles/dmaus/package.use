@@ -40,3 +40,6 @@ x11-terms/rxvt-unicode		256-color xft
 x11-wm/dwm			savedconfig
 media-video/recordmydesktop     alsa
 dev-libs/boost                  icu
+games-emulation/dosbox          alsa opengl
+media-libs/sdl-sound            flac mp3 speex vorbis
+media-libs/audiofile            flac
