@@ -45,5 +45,5 @@ media-libs/sdl-sound            flac mp3 speex vorbis
 media-libs/audiofile            flac
 media-libs/sdl-image            png
 media-libs/sdl-ttf              X
-media-libs/sndfile              alsa
+media-libs/libsndfile           alsa
 media-libs/openal               alsa
