@@ -48,3 +48,4 @@ media-libs/sdl-ttf              X
 media-libs/libsndfile           alsa
 media-libs/openal               alsa
 app-admin/sysklogd              logrotate
+sys-process/cronie              anacron
