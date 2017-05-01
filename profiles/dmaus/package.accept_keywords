@@ -3,3 +3,4 @@ dev-scheme/guile	~amd64
 virtual/emacs		~amd64
 media-sound/poc         ~amd64
 games-roguelike/dwarf-fortress  ~amd64
+dev-util/plan9port              ~amd64
