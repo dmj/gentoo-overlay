@@ -49,3 +49,5 @@ media-libs/libsndfile           alsa
 media-libs/openal               alsa
 app-admin/sysklogd              logrotate
 sys-process/cronie              anacron
+dev-vcs/git                     -python -webdav
+app-crypt/gnupg                 -smartcard
