@@ -1,4 +1,3 @@
->=www-client/firefox-39
 media-sound/pulseaudio
 sys-apps/dbus
 sys-apps/systemd
