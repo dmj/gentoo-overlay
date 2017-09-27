@@ -51,3 +51,4 @@ x11-libs/gdk-pixbuf		X
 x11-libs/gdk-pixbuf             jpeg tiff
 x11-terms/rxvt-unicode		256-color xft
 x11-wm/dwm			savedconfig
+net-libs/gnutls                 tools
