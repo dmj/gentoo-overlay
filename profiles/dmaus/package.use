@@ -44,7 +44,7 @@ net-wireless/wpa_supplicant	-hs2-0 -readline
 sys-boot/grub			-fonts -themes
 sys-fs/lvm2			-readline -thin
 sys-process/cronie              anacron
-www-client/firefox		custom-cflags custom-optimization gtk2 system-harfbuzz system-libevent system-jpeg system-icu system-sqlite
+www-client/firefox		custom-cflags custom-optimization gtk2 system-harfbuzz system-libevent system-jpeg system-icu system-sqlite eme-free
 www-client/lynx                 gnutls idn
 x11-libs/cairo			X
 x11-libs/gdk-pixbuf		X
