@@ -53,4 +53,4 @@ x11-terms/rxvt-unicode		256-color xft
 x11-wm/dwm			savedconfig
 net-libs/gnutls                 tools
 media-video/avidemux            qt4
-media-libs/avidemux-plugins     qt4
+media-libs/avidemux-plugins     aac a52 qt4 x264 x265
