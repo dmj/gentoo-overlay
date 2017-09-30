@@ -5,3 +5,5 @@ media-sound/poc         ~amd64
 games-roguelike/dwarf-fortress  ~amd64
 media-fonts/source-pro          ~amd64
 app-text/tidy-html5             ~amd64
+media-libs/avidemux-plugins     ~amd64
+media-video/avidemux            ~amd64
