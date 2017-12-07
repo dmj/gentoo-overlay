@@ -1,5 +1,4 @@
 app-editors/emacs	~amd64
-dev-scheme/guile	~amd64
 virtual/emacs		~amd64
 media-sound/poc         ~amd64
 games-roguelike/dwarf-fortress  ~amd64
