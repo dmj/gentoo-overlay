@@ -58,3 +58,5 @@ media-gfx/gimp                  exif jpeg png svg tiff
 media-libs/mesa                 -llvm
 media-sound/abcde               cdparanoia normalize vorbis musicbrainz
 media-fonts/roboto              X
+net-print/cups-filters          ipp_autosetup
+app-text/ghostscript-gpl        cups
