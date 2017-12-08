@@ -56,3 +56,4 @@ media-video/avidemux            qt4
 media-libs/avidemux-plugins     aac a52 qt4 x264 x265
 media-gfx/gimp                  exif jpeg png svg tiff
 media-libs/mesa                 -llvm
+media-sound/abcde               cdparanoia normalize vorbis musicbrainz
