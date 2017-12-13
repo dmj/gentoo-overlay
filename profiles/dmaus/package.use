@@ -60,3 +60,5 @@ media-sound/abcde               cdparanoia normalize vorbis musicbrainz
 media-fonts/roboto              X
 net-print/cups-filters          ipp_autosetup
 app-text/ghostscript-gpl        cups
+dev-libs/gmime                  smime
+dev-libs/openssl                -bindist
