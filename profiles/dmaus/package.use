@@ -62,3 +62,4 @@ net-print/cups-filters          ipp_autosetup
 app-text/ghostscript-gpl        cups
 dev-libs/gmime                  smime
 media-sound/ncmpc               artist-screen colors search-screen song-screen
+media-gfx/exiv2                 xmp
