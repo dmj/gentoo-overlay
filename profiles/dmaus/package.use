@@ -63,3 +63,4 @@ app-text/ghostscript-gpl        cups
 dev-libs/gmime                  smime
 media-sound/ncmpc               artist-screen colors search-screen song-screen
 media-gfx/exiv2                 xmp
+app-emulation/vice              alsa fullscreen threads
