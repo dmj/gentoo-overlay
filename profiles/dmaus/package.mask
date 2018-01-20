@@ -5,3 +5,4 @@ sys-auth/consolekit
 sys-auth/polkit
 sys-fs/eudev
 sys-fs/udev
+>=x11-themes/adwaita-icon-theme-3.23
