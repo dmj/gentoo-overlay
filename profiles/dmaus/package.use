@@ -66,3 +66,4 @@ media-gfx/exiv2                 xmp
 app-emulation/vice              alsa fullscreen threads
 app-emulation/wine-vanilla      -mono -realtime -udisks -gecko
 x11-misc/xaos                   X aalib png threads gtk
+net-mail/mu                     emacs
