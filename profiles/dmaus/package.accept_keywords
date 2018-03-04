@@ -10,4 +10,4 @@ media-libs/avidemux-core        ~amd64
 dev-vcs/fossil                  ~amd64
 sys-fs/tmsu                     ~amd64
 dev-libs/go-fuse                ~amd64
-dev-libs/go-sqlite3             ~amd64
+dev-go/go-sqlite3               ~amd64
