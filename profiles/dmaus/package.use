@@ -40,7 +40,7 @@ media-libs/sdl-ttf              X
 media-video/mplayer		-cdio -libass -xscreensaver
 media-video/recordmydesktop     alsa
 net-wireless/kismet             -plugin-btscan -ruby
-net-wireless/wpa_supplicant	-hs2-0 -readline
+net-wireless/wpa_supplicant	-hs2-0 -readline gnutls
 sys-boot/grub			-fonts -themes
 sys-fs/lvm2			-readline -thin
 sys-process/cronie              anacron
