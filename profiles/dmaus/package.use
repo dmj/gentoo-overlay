@@ -6,7 +6,7 @@ app-crypt/pinentry		gtk emacs
 app-editors/emacs		X gzip-el imagemagick jpeg libxml2 png svg tiff xft
 app-emacs/emacs-common-gentoo	X
 app-office/ledger		emacs
-app-office/libreoffice          pdfimport -cups
+app-office/libreoffice          pdfimport -cups -gtk gtk2
 app-shells/zsh			-gdbm
 app-text/hunspell		l10n_de l10n_en
 app-text/mupdf                  X
