@@ -15,7 +15,7 @@ KEYWORDS="amd64 x86"
 IUSE=""
 
 DEPEND=""
-RDEPEND=""
+RDEPEND="dev-libs/rxp"
 
 pkg_nofetch() {
 	einfo "Please download"
