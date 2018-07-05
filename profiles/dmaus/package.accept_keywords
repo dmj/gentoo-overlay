@@ -11,3 +11,4 @@ dev-vcs/fossil                  ~amd64
 sys-fs/tmsu                     ~amd64
 dev-libs/go-fuse                ~amd64
 dev-go/go-sqlite3               ~amd64
+dev-libs/ltxml                  ~amd64
