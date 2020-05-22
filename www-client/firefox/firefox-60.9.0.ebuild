@@ -44,7 +44,7 @@ HOMEPAGE="https://www.mozilla.com/firefox"
 
 KEYWORDS="~amd64 ~arm64 ~x86"
 
-SLOT="0"
+SLOT="1"
 LICENSE="MPL-2.0 GPL-2 LGPL-2.1"
 IUSE="bindist eme-free geckodriver +gmp-autoupdate hardened hwaccel jack +screenshot selinux test"
 RESTRICT="!bindist? ( bindist )"
