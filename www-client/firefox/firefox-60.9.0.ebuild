@@ -48,6 +48,7 @@ SLOT="0"
 LICENSE="MPL-2.0 GPL-2 LGPL-2.1"
 IUSE="bindist eme-free geckodriver +gmp-autoupdate hardened hwaccel jack +screenshot selinux test"
 RESTRICT="!bindist? ( bindist )"
+EPREFIX=/opt/firefox-60
 
 SDIR="release"
 [[ ${PV} = *_beta* ]] && SDIR="beta"
