@@ -24,7 +24,6 @@ DEPEND="
 	>=dev-libs/libgcrypt-1.2.2:0=
 	>=app-crypt/p11-kit-0.19.0
 	gtk? ( >=x11-libs/gtk+-3.22:3[introspection?] )
-	>=sys-apps/dbus-1
 	introspection? ( >=dev-libs/gobject-introspection-1.58:= )
 "
 RDEPEND="${DEPEND}"
@@ -32,7 +31,6 @@ PDEPEND="app-crypt/gnupg"
 BDEPEND="
 	${PYTHON_DEPS}
 	gtk? ( dev-libs/libxml2:2 )
-	dev-util/gdbus-codegen
 	dev-util/glib-utils
 	gtk-doc? (
 		>=dev-util/gtk-doc-1.9
@@ -66,10 +64,6 @@ src_configure() {
 		$(meson_use vala vapi)
 	)
 	meson_src_configure
-}
-
-src_test() {
-	dbus-run-session meson test -C "${BUILD_DIR}" || die 'tests failed'
 }
 
 pkg_postinst() {
